@@ -8,10 +8,10 @@ NBA season records from every year: https://www.kaggle.com/boonpalipatana/nba-se
 
 ETL
 
-Extraction
+Extraction:
 Use pandas to extract data from CSV files and create data frames
 
-Transformation
+Transformation:
 Drop null values to avoid errors
 Split text column (Player name)
 Filter team record data for 2017-2018 season
@@ -19,7 +19,7 @@ Copy only necessary columns
 Remove duplicate data by “groupby” function
 Rename the column headers
 
-Loading
+Loading:
 Used pandas and sqlalchemy to upload cleaned data 
 Created a database named  Project2 in Pgadmin4 and created the schema for the tables of our data: nba_stats,nba_salary and team_stats. The nba_stats and nba_salary tables are connected by the player_name. 
 Created engine to connect to the database by setting up a connection to the local postgres using pandas
