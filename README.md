@@ -12,6 +12,7 @@ Extraction:
 Use pandas to extract data from CSV files and create data frames
 
 Transformation:
+
 -Drop null values to avoid errors
 
 -Split text column (Player name)
@@ -23,6 +24,7 @@ Transformation:
 -Remove duplicate data by “groupby” function
 
 -Rename the column headers
+
 
 Loading:
 -Used pandas and sqlalchemy to upload cleaned data 
