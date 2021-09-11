@@ -7,6 +7,7 @@ NBA players stats (2017 through 2018): https://www.kaggle.com/mcamli/nba17-18?se
 NBA season records from every year: https://www.kaggle.com/boonpalipatana/nba-season-records-from-every-year
 
 ETL
+
 Extraction
 Use pandas to extract data from CSV files and create data frames
 
